@@ -1309,8 +1309,8 @@
 
     .btn {
         display: inline-flex;
-        padding: 1rem 1rem;
-        font-size: 0.85rem;
+        padding: 1rem 1.5rem;
+        font-size: 0.9rem;
         position: relative;
         text-align: center;
     }
