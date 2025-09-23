@@ -176,33 +176,6 @@
             animation-delay: 4s;
         }
 
-        .floating-code {
-            position: absolute;
-            font-size: 3rem;
-            font-weight: bold;
-            color: var(--primary-color);
-            opacity: 0.1;
-            animation: floatCode 8s ease-in-out infinite;
-        }
-
-        .floating-code:nth-child(4) {
-            top: 15%;
-            left: 15%;
-            animation-delay: 0s;
-        }
-
-        .code-2 {
-            bottom: 30%;
-            right: 20%;
-            animation-delay: 3s;
-        }
-
-        .code-3 {
-            top: 50%;
-            left: 10%;
-            animation-delay: 6s;
-        }
-
         .hero-container {
             display: grid;
             grid-template-columns: 1fr 1fr;
