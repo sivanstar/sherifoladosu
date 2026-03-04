@@ -567,6 +567,8 @@
         .skill-icon-item:nth-child(4) { animation-delay: 0.4s; }
         .skill-icon-item:nth-child(5) { animation-delay: 0.5s; }
         .skill-icon-item:nth-child(6) { animation-delay: 0.6s; }
+        .skill-icon-item:nth-child(7) { animation-delay: 0.5s; }
+        .skill-icon-item:nth-child(8) { animation-delay: 0.6s; }
 
         .skill-icon-item:hover {
             transform: translateY(-10px);
@@ -585,6 +587,8 @@
         .skill-icon-item .react { color: #61DAFB; }
         .skill-icon-item .illustrator { color: #FF9A00; }
         .skill-icon-item .photoshop { color: #31A8FF; }
+        .skill-icon-item .typescript { color: #3178C6; }
+        .skill-icon-item .aftereffects { color: #9999FF; }
 
         .skill-icon-item span {
             font-size: 0.9rem;
@@ -621,6 +625,8 @@
         .skill-category:nth-child(4) { animation-delay: 0.4s; }
         .skill-category:nth-child(5) { animation-delay: 0.5s; }
         .skill-category:nth-child(6) { animation-delay: 0.6s; }
+        .skill-category:nth-child(7) { animation-delay: 0.5s; }
+        .skill-category:nth-child(8) { animation-delay: 0.6s; }
 
         .skill-category:hover {
             transform: translateY(-10px);
