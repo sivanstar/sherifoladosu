@@ -243,10 +243,10 @@
 }
 
         .hero-description {
-            font-size: 1.1rem;
+            font-size: 1rem;
             color: var(--text-secondary);
             margin-bottom: 3rem;
-            line-height: 1.8;
+            line-height: 1.5;
         }
 
         .hero-buttons {
@@ -442,7 +442,7 @@
         .about-intro p {
             color: var(--text-secondary);
             font-size: 1rem;
-            line-height: 1.8;
+            line-height: 1.5;
             margin-bottom: 1.5rem;
         }
 
